@@ -1,0 +1,13 @@
+html, body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+body {
+    line-height: 18pt;
+}
+tr {
+    cursor: pointer;
+}
+tr.toggled {
+    opacity: .3;
+}
